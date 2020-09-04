@@ -26,6 +26,12 @@ body {
     color: white !important;
 }
 
+.btn-black {
+    background-color: #242c36 !important;
+    border-color: #242c36 !important;
+    color: white !important;
+}
+
 .btn-outline-default {
     color: #00d573 !important;
     border-color: #00d573 !important;
@@ -41,4 +47,15 @@ body {
 
 .img-width {
     width: 100%;
+}
+
+.margin-icon {
+    margin-bottom: 15px;
+}
+
+
+@media (max-width: 768px) {
+    .no-margin {
+        margin-top: 20px !important;
+    }
 }
