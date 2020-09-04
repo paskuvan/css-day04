@@ -37,6 +37,11 @@ body {
     border-color: #00d573 !important;
 }
 
+.btn-outline-black {
+    color: #242c36 !important;
+    border-color: #242c36 !important;
+}
+
 .border-bt {
     border: 1px solid rgb(36 44 54 / 12%);
 }
@@ -47,6 +52,10 @@ body {
 
 .img-width {
     width: 100%;
+}
+
+.img-product {
+    width: 130%;
 }
 
 .margin-icon {
