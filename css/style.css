@@ -26,6 +26,19 @@ body {
     color: white !important;
 }
 
+.btn-outline-default {
+    color: #00d573 !important;
+    border-color: #00d573 !important;
+}
+
 .border-bt {
     border: 1px solid rgb(36 44 54 / 12%);
+}
+
+.mt-6 {
+    margin-top: 10em;
+}
+
+.img-width {
+    width: 100%;
 }
