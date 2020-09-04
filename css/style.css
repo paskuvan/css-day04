@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&display=swap');
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.font-weight {
+    font-weight: 700;
+}
+
+.font-light {
+    font-weight: 300;
+}
+
+.color-green {
+    color: #00d573;
+}
+
+.color-black {
+    color: #242c36;
+}
+
+.btn-default {
+    background-color: #00d573 !important;
+    border-color: #00d573 !important;
+    color: white !important;
+}
+
+.border-bt {
+    border: 1px solid rgb(36 44 54 / 12%);
+}
